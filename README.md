@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Rashmitha 👋
 
-<!--
-**Rashmitha-03/Rashmitha-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer & Full-Stack Developer
 
-Here are some ideas to get you started:
+## What I work on
+- Building RAG systems and AI-powered tools
+- Full-stack apps with Spring Boot and React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+**AI/ML:** Python, Flask, RAG, LangChain, CNN
+**Full-stack:** Java, Spring Boot, React.js
+
+## Featured projects
+- [docpilot](https://github.com/Rashmitha-03/docpilot): Citation-first RAG assistant that answers from docs and refuses when unsure
+- [Resume-Shortlister](https://github.com/Rashmitha-03/Resume-Shortlister): Automated candidate screening tool
+
+## Contact
+LinkedIn: <www.linkedin.com/in/rashmitha03> | Email: <rashmithak03@gmail.com>
