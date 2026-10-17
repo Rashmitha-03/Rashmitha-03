@@ -36,7 +36,7 @@ An AI-powered document assistant that retrieves relevant information from upload
 ### 📊 [Resume-Shortlister](https://github.com/Rashmitha-03/Resume-Shortlister)
 A Python-based resume screening application that processes resume content, compares candidate profiles against job descriptions, and ranks candidates using text similarity techniques.
 
-### 🛒 [Ecom Zylo — Full-Stack E-Commerce Application](YOUR_GITHUB_REPOSITORY_LINK)
+### 🛒 [Ecom Zylo — Full-Stack E-Commerce Application](https://github.com/Rashmitha-03/Zylo_EcomCart_Microservice.git)
 
 Developed a full-stack e-commerce application using **Java, Spring Boot, and React.js**, featuring REST API integration and a modular backend architecture. Implemented core shopping workflows, including user management, product browsing, shopping cart, order processing, and payment management, with role-based access control for secure operations.
 
