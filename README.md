@@ -23,15 +23,16 @@ I'm an AI Engineer and Full-Stack Developer passionate about building practical 
 ## 💻 Tech Stack:
 ---
 
-**Languages**
-
+<p align="left">
+<b>Languages:</b><br>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-**AI / Machine Learning**
-
+<p align="left">
+<b>AI / Machine Learning:</b><br>
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/DEEP%20LEARNING-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge" />
@@ -39,29 +40,34 @@ I'm an AI Engineer and Full-Stack Developer passionate about building practical 
 <img src="https://img.shields.io/badge/RAG-0A9396?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLMS-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
 
-**Backend**
-
+<p align="left">
+<b>Backend:</b><br>
 <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/REST%20APIS-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-**Frontend**
-
+<p align="left">
+<b>Frontend:</b><br>
 <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-**Databases**
-
+<p align="left">
+<b>Databases:</b><br>
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/CHROMADB-FF6446?style=for-the-badge" />
+</p>
 
-**Tools & Platforms**
-
+<p align="left">
+<b>Tools & Platforms:</b><br>
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ## 🌟 Featured Projects
 ---
