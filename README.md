@@ -11,15 +11,6 @@ I'm an AI Engineer and Full-Stack Developer passionate about building practical 
 <a href="mailto:rashmithak03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Rashmitha-03"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
 
-## 🚀 What I Do
----
-
-- 🤖 Build AI-powered applications using LLMs, RAG, ML, NLP, and full-stack projects.
-- 🔍 Develop document-grounded AI assistants with source citations and reliability-focused responses.
-- 💻 Build full-stack applications using Java, Spring Boot, and React JS.
-- ⚙️ Design REST APIs and integrate AI capabilities into real-world applications.
-- 📚 Continuously explore Generative AI, intelligent agents, and emerging AI technologies.
-
 ## 💻 Tech Stack:
 ---
 
@@ -77,9 +68,6 @@ An AI-powered document assistant that retrieves relevant information from upload
 
 **Focus:** Retrieval-Augmented Generation (RAG), document retrieval, LLMs, source-grounded responses.
 
-### 📊 [Resume-Shortlister](https://github.com/Rashmitha-03/Resume-Shortlister)
-A Python-based resume screening application that processes resume content, compares candidate profiles against job descriptions, and ranks candidates using text similarity techniques.
-
 ### 🛒 [Ecom Zylo — Full-Stack E-Commerce Application](https://github.com/Rashmitha-03/Zylo-Ecom_Fullstack_WatchPlatform.git)
 Developed a full-stack e-commerce application using **Java, Spring Boot, and React.js**, featuring REST API integration and a modular backend architecture. Implemented core shopping workflows, including user management, product browsing, shopping cart, order processing, and payment management, with role-based access control for secure operations.
 
@@ -91,14 +79,6 @@ Developed a full-stack e-commerce application using **Java, Spring Boot, and Rea
 <img src="https://github-readme-stats.vercel.app/api?username=Rashmitha-03&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=Rashmitha-03&theme=dark&hide_border=false" alt="GitHub Streak" />
-
-## 🎯 Currently Exploring
----
-
-- Advanced RAG pipelines and retrieval optimization
-- AI agents and agentic workflows
-- LangGraph and LLM application development
-- Building and deploying production-oriented AI applications
 
 ## 🤝 Let's Connect
 ---
