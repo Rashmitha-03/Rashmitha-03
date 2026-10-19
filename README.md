@@ -1,7 +1,7 @@
 # Hi, I'm Rashmitha N. 👋
 
 ### AI Engineer | Generative AI | Full-Stack Developer
-
+ 
 I'm an AI Engineer and Full-Stack Developer passionate about building practical AI-powered applications, intelligent automation tools, and scalable web solutions. I enjoy turning ideas into working products by combining machine learning, LLM-based systems, and backend development.
 
 ## 🌐 Socials:
